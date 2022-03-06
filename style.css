@@ -1,0 +1,8 @@
+h1{font-size: 60px;font-weight: 900;}
+p{font-size: 20px;font-weight: 400;}
+.quote{margin-top: 100px!important; }
+.btn{ padding: 15px 70px; font-size: 20px; font-weight: 400;border-radius: 10px;transition: 1s;}
+.btn:hover{background-color: green !important;}
+.bg-secondary{background-color: rgba(163, 154, 154,.5) !important;display: inline-block !important;font-size: 30px;font-weight: 400;}
+h1,.bg-secondary,.btn{margin-bottom: 20px !important;}
+.quotedisplay{font-size: 30px;}
